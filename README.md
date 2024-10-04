@@ -7,9 +7,9 @@ $$R=R_o(1+\alpha{t}) \longrightarrow (1)$$
 
 where:
 
- $$R_o=resistence\text{ } at\text{ } 0 \degree{C}$$
+ $$R_o=resistence\text{ } at\text{ } 0 \degree C$$
 
- $$R= resistence\text{ } at\text{ } t \degree{C}$$
+ $$R= resistence\text{ } at\text{ } t \degree C$$
 
  $$\alpha = temperature\text{ } coefficient\text{ } of\text{ } resistence$$
 
