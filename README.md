@@ -2,8 +2,11 @@
 - We know that when temperature of a conductor is decreased, then it's resistence decreases linearly
 
   - According to the relation:
+ 
 $$R=R_o(1+\alpha{t}) \longrightarrow (1)$$
+
 where:
+
  $$R_o=resistence\text{ } at\text{ } 0 \degree{C}$$
 
  $$R= resistence\text{ } at\text{ } t \degree{C}$$
@@ -13,7 +16,9 @@ where:
 This is positive(+ve) for metals.\
 That if temeperature is increased then resistence of conductor will also increase and vice versa.\
 If the temperature is expressed in absolute units(K) then above equation becomes a straight line passing through origin like
+
 $$R=R_o\gamma T\longrightarrow (2)$$
+
 Accordingly resistence of a conductor will become zero only at absolute zero (that is 0 kelvin).\
 This property was being verified by scientist 'Kamerlingh Onnes' for mercury (Hg).\
 He was decreasing temperature of Hg and observing it's resistence.\
